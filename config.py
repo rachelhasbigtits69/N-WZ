@@ -5,10 +5,10 @@
 # UPSTREAM_REPO, UPSTREAM_BRANCH, AUTO_UPDATE and UPDATE_PKGS may also be set via env vars.
 
 # REQUIRED
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
+BOT_TOKEN = "5073917997:AAGY7IMLpWtnwegA7hsgFdMiATgJIeQY4Qg""
+OWNER_ID = 680745190
+TELEGRAM_API = 2175637
+TELEGRAM_HASH = "3768f77fa58f2ac3ab5e72f7bfa6df34"
 DATABASE_URL = ""  # mongodb:// or mongodb+srv:// URI
 
 # General
@@ -158,8 +158,8 @@ DEBRID_LINK_API = ""
 REAL_DEBRID_API = ""
 
 # Web UI / qBittorrent / Aria2c
-BASE_URL = ""  # public URL of this bot's web frontend
-BASE_URL_PORT = 880
+BASE_URL = "https://krishcchat-testNew.hf.space/"  # public URL of this bot's web frontend
+BASE_URL_PORT = 7860
 WEB_PINCODE = True
 TORRENT_TIMEOUT = 0
 
@@ -192,8 +192,8 @@ SEARCH_PLUGINS = [
 ]
 
 # Self-update
-UPSTREAM_REPO = "https://github.com/irisXDR/NEO-WZML"
+UPSTREAM_REPO = "https://github.com/rachelhasbigtits69/N-WZ"
 UPSTREAM_BRANCH = "master"
 AUTO_UPDATE = False
-UPDATE_PKGS = True
+UPDATE_PKGS = False
 UPGRADE_PACKAGES = False
