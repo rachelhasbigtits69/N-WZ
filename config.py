@@ -194,6 +194,6 @@ SEARCH_PLUGINS = [
 # Self-update
 UPSTREAM_REPO = "https://github.com/rachelhasbigtits69/N-WZ"
 UPSTREAM_BRANCH = "master"
-AUTO_UPDATE = False
+AUTO_UPDATE = True
 UPDATE_PKGS = False
 UPGRADE_PACKAGES = False
