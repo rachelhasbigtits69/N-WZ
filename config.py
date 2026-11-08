@@ -1,4 +1,4 @@
-# This file is a part of NEO-WZML (github.com/irisXDR/NEO-WZML)
+ñ.  # This file is a part of NEO-WZML (github.com/irisXDR/NEO-WZML)
 #
 # Copy to `config.py` and fill in your values. `config.py` is git-ignored.
 # BOT_TOKEN, TELEGRAM_API, TELEGRAM_HASH, OWNER_ID, DATABASE_URL, BASE_URL,
@@ -97,7 +97,7 @@ THUMBNAIL_LAYOUT = ""  # e.g. "3x4"
 SAVE_MSG = True
 SOURCE_LINK = True
 SCREENSHOTS_MODE = True
-SHOW_MEDIAINFO = Teue
+SHOW_MEDIAINFO = True
 
 # Custom command tables
 FFMPEG_CMDS = {}
