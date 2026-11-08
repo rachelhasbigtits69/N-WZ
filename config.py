@@ -35,7 +35,7 @@ EXCLUDED_EXTENSIONS = "nfo exe txt"
 # Bot behavior
 BOT_PM = False
 SET_COMMANDS = True
-SHOW_EXTRA_CMDS = False
+SHOW_EXTRA_CMDS = True
 SAFE_MODE = False
 STRICT_AUTH_MODE = False
 STRICT_FILE_MODE = False
@@ -87,17 +87,17 @@ LEECH_NAME_SWAP = ""
 LEECH_SPLIT_SIZE = 0  # bytes; 0 = Telegram default
 AS_DOCUMENT = False
 EQUAL_SPLITS = False
-MEDIA_GROUP = False
+MEDIA_GROUP = True
 LEECH_PREFIX = ""
 LEECH_SUFFIX = ""
 LEECH_FONT = ""
 CAP_FONT = "code"  # code | bold | italic
 LEECH_CAPTION = ""
 THUMBNAIL_LAYOUT = ""  # e.g. "3x4"
-SAVE_MSG = False
-SOURCE_LINK = False
-SCREENSHOTS_MODE = False
-SHOW_MEDIAINFO = False
+SAVE_MSG = True
+SOURCE_LINK = True
+SCREENSHOTS_MODE = True
+SHOW_MEDIAINFO = Teue
 
 # Custom command tables
 FFMPEG_CMDS = {}
@@ -158,9 +158,9 @@ DEBRID_LINK_API = ""
 REAL_DEBRID_API = ""
 
 # Web UI / qBittorrent / Aria2c
-BASE_URL = "https://krishcchat-testNew.hf.space/"  # public URL of this bot's web frontend
+BASE_URL = "https://tvuser9-Tes3.ms.fun/"  # public URL of this bot's web frontend
 BASE_URL_PORT = 7860
-WEB_PINCODE = True
+WEB_PINCODE = False
 TORRENT_TIMEOUT = 0
 
 # RSS
